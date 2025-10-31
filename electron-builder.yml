@@ -1,5 +1,5 @@
 appId: com.yourcompany.answersapp
-productName: AnswersApp
+productName: AlbaránApp
 directories:
   output: release
   buildResources: assets
